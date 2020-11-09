@@ -1,0 +1,16 @@
+daysUntilStale: 60
+daysUntilClose: 7
+exemptLabels:
+  - "todo :spiral_notepad:"
+  - "extension"
+  - "good first issue"
+  - "help wanted"
+  - "question"
+  - "pinned"
+  - "bug"
+  - "feature"
+  - "java api"
+  - "kotlin api"
+exemptProjects: true
+exemptMilestone: true
+staleLabel: "stale"
